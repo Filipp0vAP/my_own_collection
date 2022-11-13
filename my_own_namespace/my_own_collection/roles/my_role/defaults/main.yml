@@ -1,0 +1,4 @@
+---
+# defaults file for my_role
+path_default: /host/netology/mnt-homeworks/08-ansible-06-module/from_role.txt
+content_default: "Hello world!"
