@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+    - import_role:
+        name: my_own_namespace.my_own_collection.my_role
